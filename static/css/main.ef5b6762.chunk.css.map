@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,YACA,wBACA,CAEA,YACE,UACF","file":"main.ef5b6762.chunk.css","sourcesContent":[".btn-custom{\r\nbackground-color: #434E5E;\r\n}\r\n\r\n.icon-white{\r\n  color: #ffffff;\r\n}"]}
